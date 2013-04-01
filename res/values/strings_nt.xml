@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+	<string name="app_name">OCS-NG\nAgent</string>
+    
+ 	<!-- Hors scope traduction - NO transtation needed -->
+	<string-array name="array_sections" >
+	    <item>BIOS</item>
+	    <item>DRIVES</item>
+	    <item>HARDWARE</item>
+		<item>NETWORKS</item>
+	    <item>INPUTS</item>
+	   	<item>JAVAINFOS</item>
+	    <item>STORAGES</item>
+	    <item>SOFTWARES</item>
+	    <item>VIDEOS</item>
+		<item>SIMS</item>	  	    
+	</string-array>   
+</resources>
